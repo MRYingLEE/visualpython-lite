@@ -27,4 +27,3 @@ dependencies:
   - python-tzdata
   - httpx
   - xarray
-  - pyarrow
