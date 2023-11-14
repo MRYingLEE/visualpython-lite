@@ -4,11 +4,11 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
-  - numpy==1.26.1
+  - numpy
   - matplotlib
   - seaborn
   - plotnine
-  - pandas==2.1.2
+  - pandas
   - statsmodels
   - scikit-learn
   - scipy
