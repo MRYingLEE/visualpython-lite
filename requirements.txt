@@ -12,8 +12,8 @@ ipyleaflet
 jupyterlab_miami_nights>=0.4.0
 jupyterlab~=4.0.7
 jupyterlab-filesystem-access~=0.6.0
-jupyterlite-core==0.2.0
-jupyterlite-javascript-kernel==0.2.0
+jupyterlite-core==0.2.1
+jupyterlite-javascript-kernel==0.2.1
 jupyterlite-xeus-python==0.9.7
 notebook~=7.0.5
 jupyterlab-cell-flash
