@@ -27,11 +27,10 @@ dependencies:
   - python-tzdata
   - httpx
   - xarray
-  - pip:
-    - './urllib3-2.1.0-py3-none-any.whl'
-    - './frozenlist-1.4.0-py3-none-any.whl'
-    - './multidict-4.7.6-py3-none-any.whl'
-    - './aiohttp-3.9.1-py3-none-any.whl'
-    - './xeus_python_shell-0.6.1-py3-none-any.whl'
-    - openai
-    - langchain
+  - './urllib3-2.1.0-py3-none-any.whl'
+  - './frozenlist-1.4.0-py3-none-any.whl'
+  - './multidict-4.7.6-py3-none-any.whl'
+  - './aiohttp-3.9.1-py3-none-any.whl'
+  - './xeus_python_shell-0.6.1-py3-none-any.whl'
+  - openai
+  - langchain
